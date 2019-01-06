@@ -1,0 +1,10 @@
+// Simple Node server
+npm install lite-server --save-dev 
+npm install create-react-app@1.2.5
+
+
+// Run commands
+npm run package_name
+example 
+npm run lite
+

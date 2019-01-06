@@ -1,0 +1,12 @@
+// Install create-react-app globally 
+npm install create-react-app@1.5.2 -g 
+
+// Get help
+create-react-app --help
+
+// Create an application
+create-react-app myapp 
+
+// Run app
+npm start 
+yarn start
